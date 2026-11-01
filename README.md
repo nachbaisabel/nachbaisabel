@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Isabelle 👋
 
-<!--
-**nachbaisabel/nachbaisabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying Computational and Data Science at FH Graubünden
+(FHGR / University of Applied Sciences of the Grisons).
 
-Here are some ideas to get you started:
+I'm interested in working with data and building software,
+from development to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently learning
+
+- DevOps — Git, containers, CI/CD, deployment and monitoring
+- Cloud Computing
+- Big Data
+- AI in Software Engineering
+- Software Architecture
+- Frontend Frameworks
+
+## Current projects
+
+- **Expense Tracker:** Building a small application and its DevOps
+  pipeline as part of the CDS212 module.
+- **Sports Technology:** Developing an application that visualizes real-world hockey data through animations as part of a
+  course focused on elite sports.
+
+## Technologies
+
+- Python
+- SQL
+- Basic frontend development with HTML, CSS and JavaScript
+
+## Contact
+
+- GitHub: [@nachbaisabel](https://github.com/nachbaisabel)
